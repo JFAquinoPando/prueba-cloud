@@ -29,13 +29,13 @@ document.querySelector('#app').innerHTML = `
       <li>
         <a href="https://vite.dev/" target="_blank">
           <img class="logo" src="${viteLogo}" alt="" />
-          Explore Vite
+          Explorar Vite
         </a>
       </li>
       <li>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
           <img class="button-icon" src="${javascriptLogo}" alt="">
-          Learn more
+          Aprender más
         </a>
       </li>
     </ul>
